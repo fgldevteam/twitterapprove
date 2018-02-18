@@ -1,0 +1,5 @@
+.project
+.settings
+.meteor/local
+npm-debug.log
+node_modules
